@@ -22,7 +22,6 @@ body {
   font-size: 1.3rem;
   color: var(--Very_Dark_Grayish_Blue);
   background-color: var(--Light_Grayish_Blue);
-  overflow: hidden;
 }
 
 .main_page {
