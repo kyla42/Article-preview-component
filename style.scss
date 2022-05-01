@@ -44,7 +44,7 @@ body {
     grid-template-columns: 28.5rem 1fr;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50em) {
     .main_page {
         max-width: 37.5rem;
         height: 100vh;
@@ -68,7 +68,7 @@ body {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50em) {
     #left_box {
         height: 21rem;
 
@@ -102,7 +102,7 @@ body {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50em) {
     #right_box {
         padding: 3.6rem 0 0 0;
 
@@ -221,7 +221,7 @@ ion-icon {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50em) {
     #profile_box {
         padding: 1.8rem 3.1rem;
         margin: 0;
